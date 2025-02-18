@@ -11,10 +11,14 @@ git remote add origin https://github.com/ashis103/AWS-Practice.git
 git push -u origin main
 
 
+-------------------------------------------------------------------------------------------
+
 …or push an existing repository from the command line
 git remote add origin https://github.com/ashis103/AWS-Practice.git
 git branch -M main
 git push -u origin main
+
+------------------------------------------------------------------------------
 
 1. 1st We will create S3 bucket and put a index.html file .
    --- what to do ? We will run and edit index file from GIT it will automatic update globally ...mean s3 bucket update and run ..
