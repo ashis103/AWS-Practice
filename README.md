@@ -45,4 +45,12 @@ git push -u origin main
    ]
 }
 
-5. run from link file.
+5. Go you git hub profile .
+6. Go you project name like Simple-CICD-Profile and insert a a file name .github/workflows/main.yaml
+     Please check code on file ....
+
+7. Now find or copy AWS secret key put on gitgub profile ..
+8. Go github setting --> Secret and variable -- Action
+   Use AWS Access and secuity key on Box from AWS Account
+
+   
