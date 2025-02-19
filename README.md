@@ -53,4 +53,12 @@ git push -u origin main
 8. Go github setting --> Secret and variable -- Action
    Use AWS Access and secuity key on Box from AWS Account
 
+    ***** Finally go Git bash ***
+      # git status
+      # git pull origin main
+      # git status
+      # git add .
+      # git commit -m "Action Item edit"
+      # git push origin main
+
    
